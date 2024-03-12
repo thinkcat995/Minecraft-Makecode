@@ -8,6 +8,11 @@
     },
     "files": [
         "README.md",
+        "BookB/L1/B-L1-homework.md",
+        "BookB/L2/B-L2-homework-1.md",
+        "BookB/L2/B-L2-homework-2.md",
+        "BookB/L2/B-L2-homework-3.md",
+        "BookB/L3/B-L3-P1.md",
         "main.blocks",
         "main.ts"
     ],
